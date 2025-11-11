@@ -1,9 +1,10 @@
-# [Fortnite Island Creator Rules](https://www.fortnite.com/news/fortnite-island-creator-rules)
+# [Fortnite Developer Rules](https://legal.epicgames.com/en-US/fortnite/developer-rules)
 
-A basic repository to Fortnite Island Creator rule changes.
+A basic repository to Fortnite Developer rule changes.
 
 | Diffs | Updates (PDF) |
 | :-: | :-: |
+| [`Aug. 05, 2025` - `Nov. 11, 2025`]() | [`Aug. 05, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/nov_11_2025.pdf) |
 | [`Jun. 27, 2025` - `Aug. 05, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/174262269db4fa0b113b3aefdab295a7a4415db4) | [`Aug. 05, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/aug_05_2025.pdf) |
 | [`Jun. 02, 2025` - `Jun. 27, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/c3bbd935792d7d8645e3641cf5738732fca3671e) | [`Jun. 27, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/jun_27_2025.pdf) |
 | [`Apr. 28, 2025` - `Jun. 02, 2025`](https://github.com/vz-creates/fn-island-creator-rules/commit/13f364e086e857c909ad4c54e6603632ae44acb4) | [`Jun. 02, 2025`](https://github.com/vz-creates/fn-island-creator-rules/blob/main/pdf/jun_02_2025.pdf) |
