@@ -1,79 +1,62 @@
-Fortnite Island Creator Rules
+Fortnite Developer Rules
+Last updated: November 11, 2025
+UPDATE (November 11, 2025)
 
-Last updated: August 5, 2025
+We’ve made several updates to the Fortnite Developer Rules.
 
-UPDATE (August 5, 2025)
-
-We’ve updated Creator Rules (1.15.1) to allow unrealistic blood-like substances (e.g. not red in color) to be used in your islands with fantasy NPC creatures. These effects cannot appear in thumbnails, or be used with any Fortnite Outfits or human-like characters. Realistic violence and gore of any kind is still not permitted.
-
+Added a new section (4.4) detailing rules for in-island transactions.  
+Moved and clarified rule 1.2.1., which states that content or activities outside an island cannot impact in-game experiences. 
+Added a new subrule (1.21.) prohibiting providing gameplay advantages based on Epic cosmetics.
+Added a new sub rule (3.4.3) covering contests and sweepstakes. 
+Renamed Fortnite Island Creator Rules to Fortnite Developer Rules. 
 Please take the time to read through these updated rules and familiarize yourself with them.
 
-To see the Fortnite Creator Rules change log click here.  
-
-Welcome Fortnite Creator!
-
+To see the Fortnite Developer Rules change log click here.
+Welcome Fortnite Developer!
 The Fortnite Creative & Unreal Editor for Fortnite tools allow you to create islands that can be published within Fortnite.
 
 Fortnite aims to be a safe and fun place for people to play games or hang with their friends, as we say in our Community Rules. 
 
 As you create new islands, games, and experiences within Fortnite, we need your help to keep Fortnite welcoming to everyone. We also want to make it easy for you to publish and be successful with your Fortnite island.
 
-These rules, along with the Fortnite Creator Documentation, outline the appropriate ways to create, promote, and monetize your Fortnite island, including some important dos and don’ts. Please take the time to read them carefully before you publish your first Fortnite island and best of luck! 
-
+These rules, along with the Fortnite Documentation, outline the appropriate ways to create, promote, and monetize your Fortnite island, including some important dos and don’ts. Please take the time to read them carefully before you publish your first Fortnite island and best of luck! 
 Applicable Rules
-
 Whether built using Fortnite or Unreal Editor for Fortnite, your island is your responsibility, and you must comply with the following rules:
 
-Your islands and content must comply with the rules below, and the Epic Games Content Guidelines.
+1. Your islands and content must comply with the rules below, and the Epic Games Content Guidelines.
 
-Your behavior and content must comply with the rules below, and the Epic Games Community Rules.
+2. Your behavior and content must comply with the rules below, and the Epic Games Community Rules.
 
-Any promotion of your island, both within and outside of Fortnite, must comply with the rules below, and the Fortnite Creative Branding Guidelines.
+3. Any promotion of your island, both within and outside of Fortnite, must comply with the rules below, and the Fortnite Creative Branding Guidelines.
 
-If you choose to use any third party IP, such as LEGO®, Teenage Mutant Ninja Turtles (TMNT), The Walking Dead Universe, or Squid Game Assets and Templates, you must comply with the IP Partner Licensing Agreement and the related Brand and Creator Rules (LEGO Brand and Creator Rules, TMNT Brand and Creator Rules, The Walking Dead Universe Brand and Creator Rules, Squid Game Brand and Creator Rules).
+4. If you choose to use any third party IP, such as LEGO®, Teenage Mutant Ninja Turtles (TMNT), The Walking Dead Universe, Squid Game, or KPop Demon Hunters Assets and Templates, you must comply with the IP Partner Licensing Agreement and the related Brand and Creator Rules (LEGO Brand and Creator Rules, TMNT Brand and Creator Rules, The Walking Dead Universe Brand and Creator Rules, Squid Game Brand and Creator Rules, KPop Demon Hunters Brand and Creator Rules).
 The Rules
-
 1. Content Rules & Guidelines
-
 As we work together to ensure Fortnite stays a safe and welcoming environment for everyone, your Fortnite content must follow these rules:
 
 1.1 A Safe Environment - Don’t create, upload, or publish content promoting illegal activities, including the promotion of known real-world gangs or gang violence, the promotion of known real-world terrorist organizations or terrorism, the promotion of real-world violent extremists or extremism, harassment, bullying, assault, doxing, swatting, gambling, illegal drugs, animal cruelty, fraud, hacking, and piracy. Content that depicts, condones, incites, or threatens real-world violence against others is prohibited. 
-
 1.2 Keep Personal Info Private - To respect privacy and help combat deceptive practices like phishing and buying/selling account information, do not disclose, gather, exploit, or request personal information of individuals or organizations anywhere in your island. You may not include a URL or QR code or a request for direct or private messages. Do not include videos or photographs of real-life people (yourself or others) anywhere in your island, or metadata (name, description, thumbnail, loading screen text, lobby background, and/or trailers). Epic's voice and text chat within Fortnite include protections like privacy settings, parental controls, and player reporting. So don't provide other chat methods on your island, like chat boxes or custom keyboards.
-
+1.2.1. No content or activities outside the island can impact inside the game experience.
 1.3 Intolerance and Discrimination - Fortnite welcomes diversity in race, ethnicity, color, religion, gender identity, sexual orientation, disability, national origin, and other groups. Content should not demean, dehumanize, marginalize, use hateful language against, perpetuate negative stereotypes about, or belittle other users or groups. Islands that promote or encourage intolerance or discrimination will not be allowed.
-
 1.4 Love… Don’t Hate - Don’t create content that includes hateful symbols or depictions or content that glorifies or incites violence.
-
 1.5 Bullying and Harassment - Respect others that participate in your creation. Publishing content that is predatory, threatening, intimidating, demeaning, derogatory, invasive of privacy, abusive, or that would cause real-world harm, including extortion, sextortion, and blackmail, is against the rules.
-
-1.6 Be Original - Keep your creations original. Don't duplicate, copy, or reproduce other creators’ promotional assets such as thumbnails, titles, and/or descriptions. Don’t pass off your creations as another creator’s work, including by using similar game titles or imagery. Don’t impersonate other players, creators, streamers, celebrities, companies, brands, government officials, Epic employees, or anyone else. Pretending to be someone else in order to deceive or defraud others is not okay. 
-
-1.7 Respect IP Ownership - The content you create, publish, or use cannot infringe or violate someone else's rights, including their intellectual property rights (such as copyright or trademark). You must own or have obtained the necessary rights to share and publish the content, and any such license must be broad enough to grant Epic a license consistent with the Fortnite EULA and the UEFN Supplemental Terms. More information about copyright can be found here.
-
-1.7.1 Epic-Owned IP. Epic owns intellectual property (IP) rights in all of its original creations. You may use Epic-owned assets made available to you in UEFN in your island. However, you may not use recreated or otherwise obtained assets, maps, characters, music etc., from Fortnite or other Epic-owned properties without permission, either in your island or its metadata. For example, you may not recreate Battle Royale season assets in your island or metadata if they are not made available in UEFN.
+1.6 Be Original - Keep your creations original. Don't duplicate, copy, or reproduce other developers’ promotional assets such as thumbnails, titles, and/or descriptions. Don’t pass off your creations as another developer's work, including by using similar game titles or imagery. Don’t impersonate other players, developers, streamers, celebrities, companies, brands, government officials, Epic employees, or anyone else. Pretending to be someone else in order to deceive or defraud others is not okay. 
+1.7 Respect IP Ownership - The content you create, publish, sell, or use cannot infringe or violate someone else's rights, including their intellectual property rights (such as copyright or trademark). You must own or have obtained the necessary rights to share and publish the content, and any such license must be broad enough to grant Epic a license consistent with the Fortnite EULA and the UEFN Supplemental Terms. More information about copyright can be found here.
+1.7.1 Epic-Owned IP. Epic owns intellectual property (IP) rights in all of its original creations. You may use Epic-owned assets made available to you in UEFN in your island, including in your in-island items for sale. However, you may not use recreated or otherwise obtained assets, maps, characters, music etc., from Fortnite or other Epic-owned properties without permission, either in your island or its metadata. For example, you may not recreate Battle Royale season assets in your island or metadata if they are not made available in UEFN.
 1.8 Give Credit Where It’s Required - If you use content with a license that requires attribution, like Creative Commons 4.0 International, you must give any required credits, such as by using the "Attributions" section in the Creator Portal. Keep in mind that some licenses may not be compatible with our tools or with UEFN. If you're not sure that you can meet the license's attribution requirements, don't use the licensed content.
-
 1.9 Play by the Rules - Do not create islands that promote the use of cheats, exploits, glitched items, server crashes, and bugs. Do not scam players on your island. Do not mislead players anywhere in your island, including using misleading tactics that trick them into favoriting your creator profile page or recommending your island.
-
 1.10 Appropriate Language Only - Don’t include obscene text or symbols in your island’s metadata (name, description, thumbnail, lobby background, loading screen text, or trailer), promotional materials, your display name, creator code, or elsewhere on your island. This includes spelling variations or visual depictions of text aimed at evading this rule.
-
 1.11 All Bets Are Off - Don’t implement playable gambling content, raffles, or casino-style games. These are prohibited whether or not they involve real money or virtual currency.
-
 1.12 Keep It on the Island - Do not include external links anywhere on your island.
-
 1.13 Keep It Authentic - The assets (such as thumbnail images, descriptions, titles) you use to promote your Fortnite island must accurately represent the content within your island.
-
 1.13.1. Do not imitate or supplement visual elements provided by Fortnite to indicate a feature to players (e.g. the ability to earn Fortnite XP in your island, or game ratings).
 1.13.2. Do not mention V-Bucks, Battle Pass, real-world currency, or rewards. 
 1.13.3. Do not incorporate elements that promise or mislead players regarding XP gains, in-game items, or Quests. Do not use terms such as “AFK,” “XP,” “Coin farm,” or “Coin slide” in your name, description, thumbnail, loading screen text, or lobby background. Do not use images of Fortnite coins or similar coins in your thumbnails and lobby backgrounds. Do not use any other imagery or language that may mislead players.
 1.13.4. Do not mislead players as to the sort of experience they will have. 
 1.14 Stay within Spec Requirements - Make sure the islands you are creating do not cause server issues, intentionally or not. Frame rates should stay above 30 FPS. Islands must be playable across all platforms supported by Fortnite, for example, islands can’t be limited to mobile only.
-
 1.15 Align with Fortnite’s Game Rating - Fortnite is an ecosystem with a range of ratings and all content (including text, imagery, and audio) must not exceed Fortnite’s maximum age rating. Please refer to the IARC Overview for “Maximum Age Ratings in Fortnite”. We also don't accept content that targets children under 13 as its primary audience (no nursery rhymes). Images and text used to promote your island must be appropriate for a general audience (e.g. content that would merit a rating of ESRB Everyone 10+, or lower).
 
-We require all creators to obtain age ratings for your content via IARC (International Age Rating Coalition) upon publishing. When creating or publishing content for Fortnite, you must also follow these content rules: 
-
+We require all developers to obtain age ratings for your content via IARC (International Age Rating Coalition) upon publishing. When creating or publishing content for Fortnite, you must also follow these content rules: 
 1.15.1. Violence & Gore: Violence must never be realistic. Death animations and kill replays are not permitted. Realistic gore of any kind is not permitted, including any realistic blood. Unrealistic, blood-like substances are allowed when used with fantasy NPC creatures, such as non-human-like and non-realistic creature NPCs. Unrealistic blood cannot be red in color, and may not be used in thumbnails or with any Fortnite Outfits. Your content may contain horror themes and/or “scary” content, but neither may be intense or sustained. You must avoid disturbing images. 
 1.15.2. Language: Use of mild profanity and innuendo is permitted, but must not be frequent. Hateful or discriminatory language of any kind is not permitted. Sexual expletives of any kind are not permitted.
 1.15.3. Nudity & Sexually Suggestive Themes: Romantic themes are permitted, but must not go as far as strong or frequent sexually suggestive themes and references. Depictions of full nudity or sexual activities are not permitted in any form.
@@ -89,13 +72,9 @@ Guns pointed at the viewer
 Guns pointed at head of character
 1.15.8. Music: All music used in an island must not exceed that island’s rating. For example, music in a Teen-rated island cannot contain lyrics that use language or reference themes that are not permissible in Teen-rated content, such as graphic sexual or violent content, sexual expletives, or detailed references to self-harm or suicide. 
 Learn more: ESRB Ratings Principles and Guidelines.
-
 1.16 Misuse of Epic Systems - Epic maintains many systems to keep our users safe and their data secure. Do not attempt to bypass these protections to gain unauthorized access to any Epic systems or data. Do not attempt to gain sensitive information from players. Do not attempt to create or distribute malicious software via Epic systems.
-
-1.17 Educational Exceptions - We may permit exceptions at our discretion to our Island Creator Rules if the primary purpose of your island is to provide an educational, scientific, artistic, or historical experience.
-
+1.17 Educational Exceptions - We may permit exceptions at our discretion to our Fortnite Developer Rules if the primary purpose of your island is to provide an educational, scientific, artistic, or historical experience.
 1.18 Island Content Disclosures - When answering the IARC Age Rating Questionnaire, you are required to accurately disclose relevant content within your Island in order to receive the correct age ratings. Content that is relevant to age ratings includes:
-
 1.18.1. Violence
 1.18.2. Fear or Gore
 1.18.3. Sexuality
@@ -103,135 +82,112 @@ Learn more: ESRB Ratings Principles and Guidelines.
 1.18.5. Languages
 1.18.6. Controlled Substances
 1.18.7. Crude humor
+1.18.8. In-island transactions
 1.19 Follow Epic’s Style Requirements
-
 1.19.1. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.  
 1.20 Creator Picks - Paid promotions and collaborations are prohibited in islands featured in your "Creator Picks" section. You must not accept payment, in any form, to list an experience in the Creator Picks section of your Creator Page.
-
+1.21. Do not provide any gameplay advantage based on Epic cosmetics that the player has equipped.
 2. Working with Others
-
-2.1. If you engage another island creator to help you build your island or, similarly, if you agree to help another creator create their island, it is an agreement between you and that person. Epic Games is in no way a party to your agreement and is not responsible for it in any way.
-
-2.2. Unreal Editor for Fortnite permits adult creators to work together in teams, which are managed using the Fortnite Creator Portal. As the owner of a team, you are responsible for ensuring the content created and published by that team adheres to these rules, even if another member of your team made or imported content that violates these rules.
-
+2.1. If you engage another island developer to help you build your island or, similarly, if you agree to help another developer create their island, it is an agreement between you and that person. Epic Games is in no way a party to your agreement and is not responsible for it in any way.
+2.2. Unreal Editor for Fortnite permits adult developers to work together in teams, which are managed using the Fortnite Creator Portal. As the owner of a team, you are responsible for ensuring the content created and published by that team adheres to these rules, even if another member of your team made or imported content that violates these rules.
 3. Promoting Your Island
-
 We want to make it easy for you to promote your Fortnite island to help it be successful. Promotion of your island, including marketing content outside of Fortnite, must follow these rules:
 
 3.1 Promotional Use of Epic Games and Fortnite IP
 
 3.1.1. When promoting your island, you must not represent it as developed in partnership with Epic Games or suggest that it is in any way an official Epic Games Fortnite island, existing or past.
-
 3.1.2. When promoting your island, you may use the “Created in Fortnite” logo as long as it follows our Fortnite Creative Branding Guidelines.
-
 3.1.3. You must not use the Fortnite or Epic Games logos anywhere in your island or in the promotional materials for your island.
-
 3.1.4. When promoting your island, the assets you use to represent your island must look and feel like your island, and follow our Fortnite Creative Branding Guidelines; they must not mislead players as to the sort of experience they will have. You may not incorporate photographs.
-
 3.1.5. You must prominently include the following legal line on all promotional material: This is not sponsored, endorsed, or administered by Epic Games, Inc.
-
 3.1.6. When creating promotional materials for your island, you must only show Outfits or other items that are owned by Epic Games (or content that you have express permission or rights to use). For example, don’t use Marvel or DC Outfits.
-
 3.2 Marketing Activities
 
 3.2.1. All marketing content you use to promote your island, regardless of channel or format, must comply with these rules, including the Content Rules & Guidelines described above in Rule 1 and the Epic Games Content Guidelines. Marketing content you use to promote your island should also be appropriate for the age rating you obtain for the island under Rule 1.16. Promotions that violate these rules may result in action being taken against the island(s) being promoted or actions against your Epic Account.
-
 3.2.2. You must not run advertisements on television or digital ad networks to promote your island without express and prior consent from Epic Games. To seek this consent, please contact us at CreatorAdRequests@epicgames.com.
-
 3.2.3. You may promote your island digitally via advertisements and assets on your own websites, social channels, or platforms, as well as with text-based search ads, such as Google Search.
-
 3.2.4. If you engage and pay influencers to promote your island, you must follow all applicable laws such as the FTC Endorsement Guidelines. Influencers you engage to promote your island must be clearly and conspicuously disclosed.
-
 3.2.5. You must not create and distribute Fortnite-branded physical promotional items of any kind to promote your island (for example, clothing, stickers, flyers, mugs, etc.) without express and prior consent from Epic Games.
-
 3.2.6. When promoting your island via search advertisements, you must not purchase advertisements against keywords or search terms that are Epic Games trademarks, such as “Fortnite” or “Epic Games.”
-
 3.2.7. Fortnite is rated ESRB Teen for Diverse Content and PEGI ! rated game. All advertising, promotion, or communication related to your island must be age-appropriate and follow local rating body guidelines. You must not target under-13s with advertising, promotion, or communication of any kind for your island.
-
 3.3 Event Marketing
 
 3.3.1. You may promote your island through physical and online events, as long as your event, competition, or tournament complies with all the Fortnite Event License Terms and the Fortnite Third Party Event Brand Guidelines.
-
 3.4 Contests and Sweepstakes
 
 3.4.1. Your Fortnite island may not be used to conduct or promote a contest or sweepstakes promotion offering prizes (“Promotion”). This means that all aspects of a Promotion (including references to the Promotion, promotional materials, explanation of how to enter, entry methods, winner selection, and the awarded prizes) must be entirely outside of your Fortnite island.
-
 3.4.2. If you conduct or promote a Promotion outside of Fortnite in connection with your island, you must comply with the rules in this Section 3 and all applicable laws (including any registration requirements). Also, you must:
-
 3.4.2.1. Not encourage or require entrants to make any purchase or payment in connection with the Promotion. For example, you may not restrict entry in the Promotion behind entry fees, paid subscriptions/follows, or any other purchase requirements, or otherwise imply that making a purchase will increase the odds of winning;
 3.4.2.2. Publish official Promotion rules (“Promotion Terms”), including all disclosures and terms required by law, and make them available wherever the Promotion is promoted or entries are accepted;
 3.4.2.3. In the Promotion Terms and wherever the Promotion is promoted or entries are accepted, ensure that the Promotion’s sponsor(s) are clearly identified and include the following statement: “This promotion is not sponsored, endorsed, or administered by Epic Games, Inc.”; and
 3.4.2.4. Include the following statements in the Promotion Terms: For all Promotions: “TO THE EXTENT PERMITTED BY APPLICABLE LAW, PARTICIPANTS AGREE TO RELEASE AND HOLD HARMLESS EPIC GAMES, INC., ITS LICENSORS, ITS AND THEIR AFFILIATES, AND ITS AND THEIR EMPLOYEES, OFFICERS, DIRECTORS, AGENTS, CONTRACTORS, AND OTHER REPRESENTATIVES FROM ALL CLAIMS, DEMANDS, ACTIONS, LOSSES, LIABILITIES, AND EXPENSES RELATED TO THIS PROMOTION.”
 
 In addition, if entrants must submit any account or personal information: “THE INFORMATION PARTICIPANTS PROVIDE IN CONNECTION WITH THIS PROMOTION IS BEING PROVIDED TO SPONSOR AND NOT TO EPIC GAMES, INC.
+3.4.3 Entry into or prizes associated with any sweepstakes or contest, both on platform and off platform, cannot be predicated on the results, engagements, or interaction with Paid Random Items. 
 3.5 Engaging with Press
 
 3.5.1. Press release materials you create to promote your island must not state or suggest in any way that your island is an official Epic Games experience, or that you are in a partnership with Epic Games.
-
 3.5.2. All press release materials you create to promote your island should include the following: “This is an independently created Fortnite island and is not sponsored, endorsed, or administered by Epic Games, Inc."
-
 3.5.3. If you have any questions about promoting your island with the press or would like your press materials reviewed to ensure they comply with our policies, please reach out to Epic Games at FNCreativePR@epicgames.com
-
 4. Monetizing Your Island
-
 We want to make it as easy as possible for you to monetize your Fortnite island while maintaining transparency for players. These rules outline what you can and cannot do to monetize your Fortnite island:
 
 4.1. Engagement Payouts
 
-4.1.1. As an island creator, you may monetize your islands via engagement payouts, if you are eligible. To participate in this program, please apply at the Island Creator signup page.
-
+4.1.1. As an island developer, you may monetize your islands via engagement payouts, if you are eligible. To participate in this program, please apply at the Island Creator signup page.
 4.2 Support-A-Creator Program
 
 4.2.1. If you create media content on other platforms which promotes your Fortnite content or promotes Fortnite content created by others, you may participate in Epic’s Support-A-Creator program. To learn more and participate in this program, please apply at the Support-A-Creator FAQ.
-
 4.2.2. As a member of the Support-A-Creator program, you are free to advertise your Creator Code anywhere outside of Fortnite. If you are also an island creator, you must not solicit support for your Creator Code anywhere within your island, including a pre-game lobby, or in its metadata (name, description, thumbnail, loading screen text, or Discover video).
-
 4.3 Commercial Content and Sponsorships
 
-Brands and creators are welcome to collaborate in Fortnite, as long as they follow these rules and any applicable laws. You cannot pay Epic Games to promote your content within Fortnite.
+Brands and developers are welcome to collaborate in Fortnite, as long as they follow these rules and any applicable laws. You cannot pay Epic Games to promote your content within Fortnite.
 
 4.3.1. Commercial content is permitted in your Fortnite island. Commercial content is defined as any island that contains content which promotes or endorses a brand, product, service, or organization.
-
-4.3.2. Commercial content is either “Paid,” which needs to be disclosed by the island creator, or “Owned,” which does not need to be disclosed by the island creator
-
+4.3.2. Commercial content is either “Paid,” which needs to be disclosed by the island developer, or “Owned,” which does not need to be disclosed by the island developer.
 Paid commercial content is an island that contains, either in the island itself or its metadata, content for which you have been compensated (i.e. received anything of value, including money, goods, and/or services) by others. This content may be in the form of sponsorship, endorsement, takeover, placement, or other actions.
 Owned commercial content is an island that is built or controlled by a brand or other commercial entity.
 4.3.3. If you create Paid content, you are responsible for complying with any applicable laws around disclosing your relationship with the sponsor/brand.
-
-4.3.4. Individual creators must be at least 18 to create or publish Paid commercial content.
-
+4.3.4. Individual developers must be at least 18 to create or publish Paid commercial content.
 4.3.5. Whether commercial content or not, your island and your island’s metadata must not include (a) calls to action outside Fortnite, (b) solicitation to join, participate in, or donate to a real-world religion, political organization or military organization, c) product claims, (d) dates of offer, or (e) pricing. Examples of things that aren’t allowed in your island’s metadata
-
 “Go to onlinestore.com to learn more!”
 “Available now for only $19.99!”
 “This product works better than ever!”
 “See event at 9 PM on TV channel, on this day!”
 “Join the Green Party Today”
 4.3.6. Commercial content and sponsors must follow all the content rules above, and the Epic Content Guidelines, and must not:
-
 Promote the purchase, sale, or trade of any medical, pharmaceutical, or supplemental products or services;
 Promote the purchase, sale, or trade of real-world explosives, firearms, or ammunition;
 Promote the purchase, sale, or trade of tobacco, alcohol, marijuana (regardless of legality), illegal drugs, and other illegal, contraband, or regulated goods;
 Promote deceptive or harmful financial products and services;
 Promote real-world dating, romantic introductions, or hook-ups.
 4.3.7. You may sell sponsorships for “in-person” events, tournaments, and competitions related to your island, provided your event complies with all the Fortnite Event License Terms and the Fortnite Third Party Event Brand Guidelines.
+4.3.8. You must not create, distribute, or sell physical merchandise that features any Epic Games or Fortnite assets or logos, such as clothing, hats, or mugs.
+4.4  In-Island Transactions Rules 
 
-4.4 Monetization Practices to Avoid
+In-island items must follow all Content Rules & Guidelines above, and the following: 
 
-4.4.1. You must not restrict access to specific content or items within an island via external sites; all content should be accessible in-game.
-
-4.4.2. You must not charge for access to your island; it must be freely accessible to all Fortnite players.
-
-4.4.3. You must not create, distribute, or sell physical merchandise that features any Epic Games or Fortnite assets or logos, such as clothing, hats, or mugs.
-
+4.4.1. Do not offer V-Bucks or real-world products and services in your island. You can only offer in-island items.
+4.4.2. Do not be misleading about your in-island items on or off-platform. You must accurately represent the in-island item or experience that you are offering, including its features, price, functionality, and limitations. For example, you must not suggest that it has features or effects it doesn’t have, or imply it is limited in some way (in time, availability, discount, or otherwise) if it is not actually limited. 
+4.4.3. Do not adjust how you offer products for sale based on Epic-made cosmetics that the player has equipped. For example, you cannot offer different prices for an in-island item based on what Outfit a player has equipped.
+4.4.4. Do not offer XP, or imply that your offer includes granting of XP. For example, do not use the term “XP” in your in-game item offer or description. 
+4.4.5. You can offer custom passes and progression systems, but you must make clear the progression only pertains to the island in which it's offered, and you cannot use the terms “Battle Pass", “Experience” or “XP” in a paid progression pass.
+4.4.6. To maintain player expectations that the following categories of items work everywhere, do not offer in-island items of the following types, regardless of the terms used to describe them:
+Emotes, an animation or dance on the character that is initiated by the player.
+Outfits, a character’s overall appearance, sometimes also referred to as a skin.
+Cars, trucks, and buses. 
+4.4.7. You can offer in-island items that have visual overlap with items available in the Fortnite Item Shop – aside from Emotes, Outfits, and cars, trucks and buses as noted above – as long as they have gameplay value and are not purely cosmetic. 
+4.4.8. Do not use the same terms to describe your in-island items that are used in the Fortnite Item shop, including: “Auras,” “Backbling,” “Contrails,” “Drift Trails,” “Emoticons,” “Gliders,” “Harvesting Tools” or “Pickaxes,” “Jam Tracks,” “Kicks,” “Sidekicks,” “Sprays,” and “Wraps.”
+For example: You can offer “Boots of Speed” as an in-island item because the item has gameplay value (speed) and the term does not overlap with items available in the Item Shop (“Kicks”).  But you cannot offer cosmetic “kicks” as an in-island item because that item does not have gameplay value and uses the same term as an item in the Item Shop.
+4.4.9. If your experience includes any paid random items, you must use the appropriate APIs to ensure that they are only offered to eligible players. For example, if you offer in-island random items in exchange for V-Bucks, you must have the “PaidRandomItem” value set to “true.” If your experience includes a paid in-island item that may be redeemed for a random item, you must use the “AllowPaidRandomItems” function. 
+In all cases, you must also ensure players see accurate numerical odds of obtaining each paid random item prior to purchase.
+4.4.10. Some regions and platforms have rules and restrictions about what in-island items you can offer and how you can offer them. You must comply with these rules and restrictions. To help you do that, we have provided information and tools here. This information is non-exhaustive and it’s your responsibility to ensure you comply with all rules and laws regarding your in-island items. 
+4.4.11. You must stop in-island transactions at least 20 days before permanently unpublishing your island. See FAQ for further information.
 Other Terms & Conditions
+As a player of Fortnite, you are bound by the Fortnite EULA. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are a Fortnite developer who has been given the ability to publish content to Fortnite, you are additionally bound by the Engagement Program Payout Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
 
-As a player of Fortnite, you are bound by the Fortnite EULA. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are an island creator who has been given the ability to publish content to Fortnite, you are additionally bound by the Engagement Program Payout Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
-
-If Epic is made aware that the Creator Rules on this page, (including the LEGO Brand and Creator Rules, the TMNT Brand and Creator Rules, The Walking Dead Universe Brand and Creator Rules, Squid Game Brand and Creator Rules, and the terms in the IP Partner Licensing Agreement), are being violated, Epic will take action on a case-by-case basis. Enforcement actions can be anything; from a warning, changes in Discover visibility, disabled content, loss of publishing privileges, all the way up to a permanent account or monetization ban for more severe or repeated offenses.
+If Epic is made aware that the Fortnite Developer Rules on this page, (including the LEGO Brand and Creator Rules, the TMNT Brand and Creator Rules, The Walking Dead Universe Brand and Creator Rules, Squid Game Brand and Creator Rules, KPop Demon Hunters Brand and Creator Rules, and the terms in the IP Partner Licensing Agreement), are being violated, Epic will take action on a case-by-case basis. Enforcement actions can be anything; from a warning, changes in Discover visibility, disabled content, loss of publishing privileges, all the way up to a permanent account or monetization ban for more severe or repeated offenses.
 
 If your Epic account is permanently banned, you may lose all rights to Epic games, virtual items, account balances, or other items that you may have earned or purchased.
-
 Reporting
-
-We are all a part of this community, and it is up to us to keep it fun. If you encounter a player or creator who is not respecting the rules above, you can report them or report their island.
+We are all a part of this community, and it is up to us to keep it fun. If you encounter a player or developer who is not respecting the rules above, you can report them or report their island.
