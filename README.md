@@ -4,7 +4,8 @@ A basic repository to Fortnite Developer rule changes.
 
 | Diffs | Updates (PDF) |
 | :-: | :-: |
-| [`Aug. 05, 2025` - `Nov. 11, 2025`](https://github.com/vz-creates/fn-developer-rules/commit/b69430bc813a66bb82ae3e0b48571d7f66629c32) | [`Aug. 05, 2025`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/nov_11_2025.pdf) |
+| [`Nov. 11, 2025` - `Nov. 29, 2025`](https://github.com/vz-creates/fn-developer-rules/commit/7e465fc24ebf578aef81f31bb07fed8517b73a20) | [`Nov. 29, 2025`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/nov_29_2025.pdf) |
+| [`Aug. 05, 2025` - `Nov. 11, 2025`](https://github.com/vz-creates/fn-developer-rules/commit/b69430bc813a66bb82ae3e0b48571d7f66629c32) | [`Nov. 11, 2025`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/nov_11_2025.pdf) |
 | [`Jun. 27, 2025` - `Aug. 05, 2025`](https://github.com/vz-creates/fn-developer-rules/commit/174262269db4fa0b113b3aefdab295a7a4415db4) | [`Aug. 05, 2025`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/aug_05_2025.pdf) |
 | [`Jun. 02, 2025` - `Jun. 27, 2025`](https://github.com/vz-creates/fn-developer-rules/commit/c3bbd935792d7d8645e3641cf5738732fca3671e) | [`Jun. 27, 2025`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/jun_27_2025.pdf) |
 | [`Apr. 28, 2025` - `Jun. 02, 2025`](https://github.com/vz-creates/fn-developer-rules/commit/13f364e086e857c909ad4c54e6603632ae44acb4) | [`Jun. 02, 2025`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/jun_02_2025.pdf) |
