@@ -1,14 +1,13 @@
 Fortnite Developer Rules
-Last updated: November 11, 2025
-UPDATE (November 11, 2025)
+Last updated: November 29, 2025
+UPDATE (November 29, 2025)
 
-We’ve made several updates to the Fortnite Developer Rules.
+We’ve made updates to the Fortnite Developer Rules:
 
-Added a new section (4.4) detailing rules for in-island transactions.  
-Moved and clarified rule 1.2.1., which states that content or activities outside an island cannot impact in-game experiences. 
-Added a new subrule (1.21.) prohibiting providing gameplay advantages based on Epic cosmetics.
-Added a new sub rule (3.4.3) covering contests and sweepstakes. 
-Renamed Fortnite Island Creator Rules to Fortnite Developer Rules. 
+Added a new rule (4.4.12) detailing a disclosure requirement for in-island items that give players a meaningful advantage.
+Added a new rule (4.4.13) detailing a disclosure requirement for in-island offers that provide access to paid areas. 
+Updated rule 4.4.9. to correct details on how to use the PaidRandomItem field.
+Replaced two mentions of the “Fortnite EULA” to the “Epic Games Store Terms of Service” along with a new link (in Rule 1.7 and Other Terms & Conditions)
 Please take the time to read through these updated rules and familiarize yourself with them.
 
 To see the Fortnite Developer Rules change log click here.
@@ -41,7 +40,7 @@ As we work together to ensure Fortnite stays a safe and welcoming environment fo
 1.4 Love… Don’t Hate - Don’t create content that includes hateful symbols or depictions or content that glorifies or incites violence.
 1.5 Bullying and Harassment - Respect others that participate in your creation. Publishing content that is predatory, threatening, intimidating, demeaning, derogatory, invasive of privacy, abusive, or that would cause real-world harm, including extortion, sextortion, and blackmail, is against the rules.
 1.6 Be Original - Keep your creations original. Don't duplicate, copy, or reproduce other developers’ promotional assets such as thumbnails, titles, and/or descriptions. Don’t pass off your creations as another developer's work, including by using similar game titles or imagery. Don’t impersonate other players, developers, streamers, celebrities, companies, brands, government officials, Epic employees, or anyone else. Pretending to be someone else in order to deceive or defraud others is not okay. 
-1.7 Respect IP Ownership - The content you create, publish, sell, or use cannot infringe or violate someone else's rights, including their intellectual property rights (such as copyright or trademark). You must own or have obtained the necessary rights to share and publish the content, and any such license must be broad enough to grant Epic a license consistent with the Fortnite EULA and the UEFN Supplemental Terms. More information about copyright can be found here.
+1.7 Respect IP Ownership - The content you create, publish, sell, or use cannot infringe or violate someone else's rights, including their intellectual property rights (such as copyright or trademark). You must own or have obtained the necessary rights to share and publish the content, and any such license must be broad enough to grant Epic a license consistent with the Epic Games Terms of Service and the UEFN Supplemental Terms. More information about copyright can be found here.
 1.7.1 Epic-Owned IP. Epic owns intellectual property (IP) rights in all of its original creations. You may use Epic-owned assets made available to you in UEFN in your island, including in your in-island items for sale. However, you may not use recreated or otherwise obtained assets, maps, characters, music etc., from Fortnite or other Epic-owned properties without permission, either in your island or its metadata. For example, you may not recreate Battle Royale season assets in your island or metadata if they are not made available in UEFN.
 1.8 Give Credit Where It’s Required - If you use content with a license that requires attribution, like Creative Commons 4.0 International, you must give any required credits, such as by using the "Attributions" section in the Creator Portal. Keep in mind that some licenses may not be compatible with our tools or with UEFN. If you're not sure that you can meet the license's attribution requirements, don't use the licensed content.
 1.9 Play by the Rules - Do not create islands that promote the use of cheats, exploits, glitched items, server crashes, and bugs. Do not scam players on your island. Do not mislead players anywhere in your island, including using misleading tactics that trick them into favoriting your creator profile page or recommending your island.
@@ -141,7 +140,7 @@ We want to make it as easy as possible for you to monetize your Fortnite island 
 4.2.2. As a member of the Support-A-Creator program, you are free to advertise your Creator Code anywhere outside of Fortnite. If you are also an island creator, you must not solicit support for your Creator Code anywhere within your island, including a pre-game lobby, or in its metadata (name, description, thumbnail, loading screen text, or Discover video).
 4.3 Commercial Content and Sponsorships
 
-Brands and developers are welcome to collaborate in Fortnite, as long as they follow these rules and any applicable laws. You cannot pay Epic Games to promote your content within Fortnite.
+Brands and developers are welcome to collaborate in Fortnite, as long as they follow these rules and any applicable laws.
 
 4.3.1. Commercial content is permitted in your Fortnite island. Commercial content is defined as any island that contains content which promotes or endorses a brand, product, service, or organization.
 4.3.2. Commercial content is either “Paid,” which needs to be disclosed by the island developer, or “Owned,” which does not need to be disclosed by the island developer.
@@ -169,8 +168,8 @@ In-island items must follow all Content Rules & Guidelines above, and the follow
 
 4.4.1. Do not offer V-Bucks or real-world products and services in your island. You can only offer in-island items.
 4.4.2. Do not be misleading about your in-island items on or off-platform. You must accurately represent the in-island item or experience that you are offering, including its features, price, functionality, and limitations. For example, you must not suggest that it has features or effects it doesn’t have, or imply it is limited in some way (in time, availability, discount, or otherwise) if it is not actually limited. 
-4.4.3. Do not adjust how you offer products for sale based on Epic-made cosmetics that the player has equipped. For example, you cannot offer different prices for an in-island item based on what Outfit a player has equipped.
-4.4.4. Do not offer XP, or imply that your offer includes granting of XP. For example, do not use the term “XP” in your in-game item offer or description. 
+4.4.3. Do not adjust how you offer items for sale based on Epic-made cosmetics that the player has equipped. For example, you cannot offer different prices for an in-island item based on what Outfit a player has equipped.
+4.4.4. Do not offer XP, or imply that your offer includes granting of XP. For example, do not use the term “XP” in your in-island item offer or description. 
 4.4.5. You can offer custom passes and progression systems, but you must make clear the progression only pertains to the island in which it's offered, and you cannot use the terms “Battle Pass", “Experience” or “XP” in a paid progression pass.
 4.4.6. To maintain player expectations that the following categories of items work everywhere, do not offer in-island items of the following types, regardless of the terms used to describe them:
 Emotes, an animation or dance on the character that is initiated by the player.
@@ -179,12 +178,30 @@ Cars, trucks, and buses.
 4.4.7. You can offer in-island items that have visual overlap with items available in the Fortnite Item Shop – aside from Emotes, Outfits, and cars, trucks and buses as noted above – as long as they have gameplay value and are not purely cosmetic. 
 4.4.8. Do not use the same terms to describe your in-island items that are used in the Fortnite Item shop, including: “Auras,” “Backbling,” “Contrails,” “Drift Trails,” “Emoticons,” “Gliders,” “Harvesting Tools” or “Pickaxes,” “Jam Tracks,” “Kicks,” “Sidekicks,” “Sprays,” and “Wraps.”
 For example: You can offer “Boots of Speed” as an in-island item because the item has gameplay value (speed) and the term does not overlap with items available in the Item Shop (“Kicks”).  But you cannot offer cosmetic “kicks” as an in-island item because that item does not have gameplay value and uses the same term as an item in the Item Shop.
-4.4.9. If your experience includes any paid random items, you must use the appropriate APIs to ensure that they are only offered to eligible players. For example, if you offer in-island random items in exchange for V-Bucks, you must have the “PaidRandomItem” value set to “true.” If your experience includes a paid in-island item that may be redeemed for a random item, you must use the “AllowPaidRandomItems” function. 
+4.4.9. If your experience includes any paid random items, you must use the appropriate APIs to ensure that they are only offered to eligible players. For example, if you offer paid random items in exchange for V-Bucks, you must set the “PaidRandomItem” field in the product to “true.” If your experience includes a paid in-island item that may be redeemed for a random item, you must use the “RestrictPaidRandomItems” function. 
 In all cases, you must also ensure players see accurate numerical odds of obtaining each paid random item prior to purchase.
 4.4.10. Some regions and platforms have rules and restrictions about what in-island items you can offer and how you can offer them. You must comply with these rules and restrictions. To help you do that, we have provided information and tools here. This information is non-exhaustive and it’s your responsibility to ensure you comply with all rules and laws regarding your in-island items. 
-4.4.11. You must stop in-island transactions at least 20 days before permanently unpublishing your island. See FAQ for further information.
+4.4.11. You must stop in-island transactions at least 20 days before permanently unpublishing your island. See FAQ for further information here
+4.4.12. If the in-island item you are offering gives players a meaningful advantage in your island, you must set the ConsequentialToGameplay field in the product to true. See here for more information.
+4.4.13. If your in-island item provides access to an area behind a paywall, you must set the PaidArea field in the product to true. See here for more information.
+5. Sponsored Row Content Rules
+To be eligible for Sponsored Row, your content must adhere to the below Sponsored Row Content Rules in addition to our Fortnite Developer Rules, Epic Games Content Guidelines and Epic Games Community Rules. You must include all required disclosures, disclaimers, and warnings in your Sponsored Row Content in a clear and conspicuous manner. 
+
+Your Sponsored Row Content must not be sponsored by, contain, or promote any of the following activities, products, or business models in your island or in its metadata: 
+
+5.1 Encouragement, displays or glorifications of suicide or self-harm.
+5.2 Cryptocurrencies, non-fungible tokens (NFTs), or any other blockchain-related product or service. 
+5.3 Real-world medical, pharmaceutical, or dietary supplement products or services, including prescription drugs, over-the-counter drugs, medical devices, vitamins and nutritional supplements, and products containing CBD or THC.
+5.4 Real-world financial products and services, including banking and credit products and services, leases, and payday loans.
+5.5 Real-world political party or campaign advocacy, any content related to religious or charitable causes, and any political issue advocacy funded, initiated, or controlled by a Political Action Committee (PAC). This includes content related to or sponsored by political figures, such as candidates for public office; political action committees, elections, ballot measures and voter registration; and fundraising for political, religious or charitable causes. 
+5.6 Real-world weapons, explosives and related paraphernalia, including guns, firearms, bombs, fireworks, ammunition, and explosives, real-world 3D printed weapons materials and instructions.
+5.7 Real-world quick serve restaurants and real-world food and beverages that are high in added salt, sugar and fat, such as soda, sports and energy drinks and pre-packaged snacks. 
+5.8 Regulated real-world products, such as: alcohol or other illegal-substance dependence treatment;  investigative or legal services; dating or hook-up services; funeral-related products or services; premium messaging or high toll phone services; live animal sales
+Your sponsored island must be a substantive experience of reasonable quality, and you must be sponsoring it for the primary purpose of bringing players in to enjoy it. You may not use island sponsorship for the primary purpose of displaying an ad in the island thumbnail, nor for the primary purpose of linking to other islands which violate these Sponsored Row Content guidelines.
+
+These content restrictions are not meant to be exhaustive, and Epic reserves the right to reject or remove any Sponsored Row Content in its sole discretion.
 Other Terms & Conditions
-As a player of Fortnite, you are bound by the Fortnite EULA. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are a Fortnite developer who has been given the ability to publish content to Fortnite, you are additionally bound by the Engagement Program Payout Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
+As a player of Fortnite, you are bound by the Epic Games Terms of Service. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are a Fortnite developer who has been given the ability to publish content to Fortnite, you are additionally bound by the Engagement Program Payout Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
 
 If Epic is made aware that the Fortnite Developer Rules on this page, (including the LEGO Brand and Creator Rules, the TMNT Brand and Creator Rules, The Walking Dead Universe Brand and Creator Rules, Squid Game Brand and Creator Rules, KPop Demon Hunters Brand and Creator Rules, and the terms in the IP Partner Licensing Agreement), are being violated, Epic will take action on a case-by-case basis. Enforcement actions can be anything; from a warning, changes in Discover visibility, disabled content, loss of publishing privileges, all the way up to a permanent account or monetization ban for more severe or repeated offenses.
 
