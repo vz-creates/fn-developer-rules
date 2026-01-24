@@ -1,16 +1,14 @@
 Fortnite Developer Rules
-Last updated: January 10, 2026
+Last updated: January 20, 2026
+UPDATE (January 20, 2026)
+
+We've added a new rule (4.4.15) stating that in-island transactions must not directly or indirectly affect prize wheels.
+
+
 UPDATE (January 10, 2026)
 
 We’ve updated Fortnite Developer Rule 4.4.9. to add additional detail about paid random items.  
 
-UPDATE (December 11, 2025)
-
-We’ve made updates to the Fortnite Developer Rules:
-
-Added a new rule (4.4.14) stating that in-island transactions that do not provide anything in exchange for V-Bucks are prohibited. 
-Added a new rule (4.4.10.1) detailing the requirements for using the RestrictDirectPromptsToPurchase function if offers or messaging include direct prompts to purchase.
-Updated Fortnite Developer Rule 4.4 (In-Island Transactions) to use the term “entitlement” in place of earlier terminology. 
 Please take the time to read through these updated rules and familiarize yourself with them.
 
 To see the Fortnite Developer Rules change log click here.
@@ -191,6 +189,7 @@ See here to learn more about paid random items.
 4.4.12. If the entitlement you are offering gives players a meaningful advantage in your island, you must set the ConsequentialToGameplay field in the entitlement to true. See here for more information.
 4.4.13. If your in-island transaction provides access to an area behind a paywall, you must set the PaidArea field in the entitlement to true. See here for more information.
 4.4.14. In-island transactions that do not provide anything in exchange for V-Bucks are prohibited.
+4.4.15.  Do not offer any in-island transactions that directly or indirectly influence prize wheels in any way. For example, you must not offer as an in-island transaction a “spin” or “increased luck” for a prize wheel.
 5. Sponsored Row Content Rules
 To be eligible for Sponsored Row, your content must adhere to the below Sponsored Row Content Rules in addition to our Fortnite Developer Rules, Epic Games Content Guidelines and Epic Games Community Rules. You must include all required disclosures, disclaimers, and warnings in your Sponsored Row Content in a clear and conspicuous manner. 
 
