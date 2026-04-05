@@ -4,6 +4,7 @@ A basic repository to Fortnite Developer rule changes.
 
 | Diffs | Updates (PDF) |
 | :-: | :-: |
+| [`Mar. 12, 2026` - `Mar. 31, 2026`](https://github.com/vz-creates/fn-developer-rules/commit/9798e63135681b827ed393d1b6fabb0ccde02121) | [`Mar. 31, 2026`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/mar_31_2026.pdf) |
 | [`Jan. 20, 2026` - `Mar. 12, 2026`](https://github.com/vz-creates/fn-developer-rules/commit/710b5200ed04ea87a74280a592cbfe0b8bdf6619) | [`Mar. 12, 2026`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/mar_12_2026.pdf) |
 | [`Jan. 10, 2026` - `Jan. 20, 2026`](https://github.com/vz-creates/fn-developer-rules/commit/7ce363d4c097a653740906a8348613ab3b5416eb) | [`Jan. 20, 2026`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/jan_20_2026.pdf) |
 | [`Nov. 29, 2025` - `Jan. 10, 2026`](https://github.com/vz-creates/fn-developer-rules/commit/be73b0bf8294b598e44dd8691ee905d8d15c943f) | [`Jan. 10, 2026`](https://github.com/vz-creates/fn-developer-rules/blob/main/pdf/jan_10_2026.pdf) |
