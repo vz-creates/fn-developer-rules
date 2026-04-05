@@ -1,16 +1,8 @@
 Fortnite Developer Rules
-Last updated: March 12, 2026
-UPDATE (March 12, 2026)
+Last updated: March 31, 2026
+UPDATE (March 31, 2026)
 
-We've updated the definition of island metadata in Rules 1.2, 1.10, 1.15.7, 4.2.2. to include promotional screenshots. 
-
-We've also clarified (Rule 4.2.2.) that Creator Codes are not allowed anywhere within Fortnite.
-
-UPDATE (March 5, 2026)
-
-We've added a new sub-rule (1.9.1) that prohibits publishing multiple copies of the same island or metadata in an attempt to manipulate visibility or engagement.
-
-We’ve also updated rule 1.6 to clarify that copying other developers’ islands is prohibited.  
+We’ve updated the Sponsored Row Content Rules (5.9) to clarify that islands must be original, fully playable experiences to be eligible for Sponsored Row. Islands that require navigation to other islands to deliver their core experience are prohibited in Sponsored Row. 
 
 To see the Fortnite Developer Rules change log click here.
 Welcome Fortnite Developer!
@@ -205,8 +197,11 @@ Your Sponsored Row Content must not be sponsored by, contain, or promote any of 
 5.6 Real-world weapons, explosives and related paraphernalia, including guns, firearms, bombs, fireworks, ammunition, and explosives, real-world 3D printed weapons materials and instructions.
 5.7 Real-world quick serve restaurants and real-world food and beverages that are high in added salt, sugar and fat, such as soda, sports and energy drinks and pre-packaged snacks. 
 5.8 Regulated real-world products, such as: alcohol or other illegal-substance dependence treatment;  investigative or legal services; dating or hook-up services; funeral-related products or services; premium messaging or high toll phone services; live animal sales
-Your sponsored island must be a substantive experience of reasonable quality, and you must be sponsoring it for the primary purpose of bringing players in to enjoy it. You may not use island sponsorship for the primary purpose of displaying an ad in the island thumbnail, nor for the primary purpose of linking to other islands which violate these Sponsored Row Content guidelines.
-
+5.9 Sponsored islands must be original, fully playable experiences where the island itself is the primary content delivered to players. To be eligible for Sponsored Row, an island must: 
+Provide standalone player value.
+Not require navigation to other islands to deliver its core experience, such as having no gameplay of its own and only linking players to other islands using matchmaking portals.
+Not use thumbnails or in-island elements where advertising or promotion is the dominant or defining feature of the experience.
+Not link to or promote islands that violate these rules. 
 These content restrictions are not meant to be exhaustive, and Epic reserves the right to reject or remove any Sponsored Row Content in its sole discretion.
 Other Terms & Conditions
 As a player of Fortnite, you are bound by the Epic Games Terms of Service. If you use Unreal Editor for Fortnite, you are additionally bound by the UEFN Supplemental Terms. If you are a Fortnite developer who has been given the ability to publish content to Fortnite, you are additionally bound by the Fortnite Developer Terms. If you are a media creator who promotes Fortnite content, you are bound by the Support-A-Creator Terms & Conditions.
