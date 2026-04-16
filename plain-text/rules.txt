@@ -1,8 +1,10 @@
 Fortnite Developer Rules
-Last updated: March 31, 2026
-UPDATE (March 31, 2026)
+Last updated: April 16, 2026
+UPDATE (April 16, 2026)
 
-We’ve updated the Sponsored Row Content Rules (5.9) to clarify that islands must be original, fully playable experiences to be eligible for Sponsored Row. Islands that require navigation to other islands to deliver their core experience are prohibited in Sponsored Row. 
+We’ve updated the Fortnite Developer Rules to include a new rule, 1.22 conversations, specifying that personas, prompts, and character designs created with conversations must follow all existing rules.
+
+We've also added new sub-rules for conversations making it clear that you cannot: create a persona designed to provide medical or mental health guidance (1.22.1), create a persona that role-plays as a romantic partner (1.22.2), or attempt to bypass our safety systems and content restrictions (1.22.3).
 
 To see the Fortnite Developer Rules change log click here.
 Welcome Fortnite Developer!
@@ -81,6 +83,11 @@ Learn more: ESRB Ratings Principles and Guidelines.
 1.19.1. Metadata must adhere and follow the Thumbnail Image Guidelines for Discover and Lobby Background Image Guidelines.  
 1.20 Picks - Paid promotions and collaborations are prohibited in islands featured in your "Picks" section. You must not accept payment, in any form, to list an experience in the Picks section of your Profile Page.
 1.21. Do not provide any gameplay advantage based on Epic cosmetics that the player has equipped.
+1.22. Conversations: When using conversations, your personas, prompts, and character designs must adhere to the Fortnite Developer Rules. In addition, you must also follow these content rules:  
+1.22.1. You must not create a persona designed to provide medical or mental health guidance.
+1.22.2. You must not create a persona that role-plays as, simulates, or impersonates a date, romantic partner, or other intimate companion.
+1.22.3. You must not attempt to circumvent or undermine our safety systems, including intentionally designing your persona to bypass our content restrictions. 
+Your persona must be appropriate for your island's content rating.
 2. Working with Others
 2.1. If you engage another island developer to help you build your island or, similarly, if you agree to help another developer create their island, it is an agreement between you and that person. Epic Games is in no way a party to your agreement and is not responsible for it in any way.
 2.2. Unreal Editor for Fortnite permits adult developers to work together in teams, which are managed using the Fortnite Creator Portal. As the owner of a team, you are responsible for ensuring the content created and published by that team adheres to these rules, even if another member of your team made or imported content that violates these rules.
